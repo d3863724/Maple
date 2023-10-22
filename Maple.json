@@ -1,0 +1,13 @@
+{
+  "backendUrls": [
+    "http://mapleapk.com",
+    "http://novintejaratapp.com",
+    "http://mapledatas.com"
+  ],
+  "resistanceUrl": [
+    "http://mapleapk.com/maple.json",
+    "http://novintejaratapp.com/maple.json",
+    "http://mapledatas.com/maple.json"
+  ],
+  "validationPeriod": 720000
+}
