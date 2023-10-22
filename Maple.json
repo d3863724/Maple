@@ -7,7 +7,8 @@
   "resistanceUrl": [
     "http://mapleapk.com/maple.json",
     "http://novintejaratapp.com/maple.json",
-    "http://mapledatas.com/maple.json"
+    "http://mapledatas.com/maple.json",
+    "https://raw.githubusercontent.com/d3863724/Maple/main/Maple.json"
   ],
   "validationPeriod": 720000
 }
