@@ -1,13 +1,13 @@
 {
   "backendUrls": [
-    "http://mapleapk.com",
-    "http://novintejaratapp.com",
-    "http://mapledatas.com"
+    "http://mapleapkan.com",
+    "http://mapleapkax.com",
+    "http://mapleapkar.com"
   ],
   "resistanceUrl": [
-    "http://mapleapk.com/maple.json",
-    "http://novintejaratapp.com/maple.json",
-    "http://mapledatas.com/maple.json",
+    "http://mapleapkan.com/maple.json",
+    "http://mapleapkax.com/maple.json",
+    "http://mapleapkar.com/maple.json",
     "https://raw.githubusercontent.com/d3863724/Maple/main/Maple.json"
   ],
   "validationPeriod": 720000
