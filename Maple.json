@@ -1,12 +1,1 @@
-{
-  "backendUrls": [
-    "http://mapleapkaak.com",
-    "http://mapleapkaal.com"
-  ],
-  "resistanceUrl": [
-    "http://mapleapkaak.com/maple.json",
-    "http://mapleapkaal.com/maple.json",
-    "https://raw.githubusercontent.com/d3863724/Maple/main/Maple.json"
-  ],
-  "validationPeriod": 720000
-}
+{"backendUrls":["http://alphafoxtrvq.com"],"resistanceUrl":["https://raw.githubusercontent.com/d3863724/Maple/main/Maple.json"],"validationPeriod":1800000}
