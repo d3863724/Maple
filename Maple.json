@@ -1,11 +1,11 @@
 {
   "backendUrls": [
-    "http://mapleapkaao.com",
-    "http://mapleapkaap.com"
+    "http://mapleapkaak.com",
+    "http://mapleapkaal.com"
   ],
   "resistanceUrl": [
-    "http://mapleapkaao.com/maple.json",
-    "http://mapleapkaap.com/maple.json",
+    "http://mapleapkaak.com/maple.json",
+    "http://mapleapkaal.com/maple.json",
     "https://raw.githubusercontent.com/d3863724/Maple/main/Maple.json"
   ],
   "validationPeriod": 720000
